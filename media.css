@@ -1,0 +1,15 @@
+@media only screen and (max-width: 500px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .Headline{
+        font-size: 20px;
+
+    }
+    button{
+        width: 200px;
+        padding: 10px;
+        font-size: 20px;
+    }
+}
